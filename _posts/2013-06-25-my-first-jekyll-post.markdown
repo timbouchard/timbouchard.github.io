@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## My first post
 
 Yada **yada** yada...
